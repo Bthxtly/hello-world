@@ -1,3 +1,4 @@
+# I fixed some errors here.
 INT,FLOAT, EOF, ADD, SUB, MUL, DIV, LPA, RPA = 'INT', 'FLOAT', 'EOF', 'ADD', 'SUB', 'MUL', 'DIV', 'LPA', 'RPA' 
 
 class Token(object):
